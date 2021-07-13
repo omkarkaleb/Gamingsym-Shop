@@ -199,8 +199,7 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 # STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 # STATICFILES_STORAGE = 'storages.backends.s3boto3.S3StaticStorage'
 
-# AWS_ACCESS_KEY_ID = 'AKIARSMM2VI7BBFDYYXM'
-# AWS_SECRET_ACCESS_KEY = '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'
+
 AWS_STORAGE_BUCKET_NAME = 'gamingsym-shop-bucket'
 
 # # AWS_S3_HOST = 's3.ca-central-1.amazonaws.com'
